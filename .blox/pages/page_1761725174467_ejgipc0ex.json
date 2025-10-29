@@ -18,20 +18,20 @@
         "type": "h1",
         "sizes": "40",
         "mobileSizes": "30",
-        "width": "800",
-        "padding": "1",
+        "width": 1600,
+        "padding": 5,
         "tag": "1231",
         "subTitle": "123123",
-        "showDesktop": true,
+        "showDesktop": false,
         "showMobile": true,
         "fullWidth": false,
         "addShadow": false,
-        "marginTop": 1,
-        "marginBottom": 1,
+        "marginTop": 6,
+        "marginBottom": 7,
         "borderRadius": 0,
         "zIndex": 1,
-        "backgroundColor": "#0ef134",
-        "textColor": "#ff0000"
+        "backgroundColor": "#956f6f",
+        "textColor": "#ffffff"
       }
     },
     {
@@ -50,20 +50,18 @@
         "sizes": "40",
         "mobileSizes": "30",
         "padding": "1",
-        "showDesktop": false,
-        "showMobile": false,
+        "showDesktop": true,
+        "showMobile": true,
         "fullWidth": false,
         "addShadow": false,
-        "marginTop": 13,
-        "marginBottom": 9,
+        "marginTop": 1,
+        "marginBottom": 1,
         "borderRadius": 0,
-        "zIndex": 1,
-        "backgroundColor": "#8a0505",
-        "textColor": "#ee2f2f"
+        "zIndex": 1
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-29T13:34:57.591Z"
+  "updatedAt": "2025-10-29T13:42:34.536Z"
 }
