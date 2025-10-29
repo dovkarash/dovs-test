@@ -19,11 +19,31 @@
         "sizes": "40",
         "mobileSizes": "30",
         "width": "800",
+        "padding": "1",
+        "tag": "1231",
+        "subTitle": "123123"
+      }
+    },
+    {
+      "id": "89763b95-ccdb-41aa-7812-56e5dcbeb15b",
+      "type": "TitleSide",
+      "data": {
+        "center": false,
+        "fullwidth": "false",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "top": "1",
+        "bottom": "1",
+        "width": "1200",
+        "type": "h1",
+        "sizes": "40",
+        "mobileSizes": "30",
         "padding": "1"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-29T10:14:30.512Z"
+  "updatedAt": "2025-10-29T10:18:44.079Z"
 }
