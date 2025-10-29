@@ -6,8 +6,24 @@
   "metaDescription": "1",
   "headerCode": "",
   "bodyCode": "",
-  "components": [],
+  "components": [
+    {
+      "id": "db9cd833-f232-4441-63da-1d778cf95c83",
+      "type": "Title",
+      "data": {
+        "center": false,
+        "fullwidth": "true",
+        "top": "1",
+        "bottom": "1",
+        "type": "h1",
+        "sizes": "40",
+        "mobileSizes": "30",
+        "width": "800",
+        "padding": "1"
+      }
+    }
+  ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-29T09:52:29.864Z"
+  "updatedAt": "2025-10-29T09:57:55.961Z"
 }
