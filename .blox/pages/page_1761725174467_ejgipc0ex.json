@@ -34,16 +34,19 @@
         "textColor": "#ffffff",
         "backgroundColorMobile": "#b0b0b0",
         "textColorMobile": "#1c1c1c",
-        "width": 800,
+        "width": 500,
         "widthPercent": 93,
         "widthPercentMobile": 90,
         "marginTop": 5,
         "marginTopMobile": 1,
-        "shadowType": "xl"
+        "shadowType": "xl",
+        "widthMobile": 400,
+        "fullWidthMobile": true,
+        "fullWidth": false
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T13:48:03.477Z"
+  "updatedAt": "2025-10-30T13:54:44.211Z"
 }
