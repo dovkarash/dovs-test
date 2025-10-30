@@ -28,7 +28,7 @@
       "data": {
         "center": true,
         "type": "h1",
-        "sizes": 24,
+        "sizes": 88,
         "title": "hi",
         "backgroundColor": "#cd5b5b",
         "textColor": "#ffffff",
@@ -49,5 +49,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T14:45:20.789Z"
+  "updatedAt": "2025-10-30T14:51:19.072Z"
 }
