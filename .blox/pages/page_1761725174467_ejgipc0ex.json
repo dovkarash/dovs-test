@@ -26,7 +26,7 @@
       "id": "f5a360b5-c14e-4289-b4af-bcdf4cc86944",
       "type": "Title",
       "data": {
-        "center": false,
+        "center": true,
         "type": "h1",
         "sizes": "40",
         "title": "hi",
@@ -48,5 +48,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T14:07:56.053Z"
+  "updatedAt": "2025-10-30T14:09:36.951Z"
 }
