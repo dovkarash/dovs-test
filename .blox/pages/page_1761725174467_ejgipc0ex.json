@@ -31,7 +31,7 @@
         "backgroundColorMobile": "#000000",
         "backgroundColor": "#b0a6a6",
         "textColor": "#ff2424",
-        "textColorMobile": "#56f42a",
+        "textColorMobile": "#69ee44",
         "showMobile": true,
         "showDesktop": true,
         "borderWidthMobile": 3,
@@ -43,5 +43,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T11:47:03.427Z"
+  "updatedAt": "2025-10-30T11:52:55.042Z"
 }
