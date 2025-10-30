@@ -19,8 +19,8 @@
         "subTitle": "Subtitle",
         "btnTxt": "Button",
         "btnLink": "Button",
-        "marginTop": 2,
-        "width": 400,
+        "marginTop": 6,
+        "width": 500,
         "marginTopMobile": 3,
         "marginBottomMobile": 8,
         "paddingMobile": 7,
@@ -43,5 +43,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T11:40:43.531Z"
+  "updatedAt": "2025-10-30T11:41:05.346Z"
 }
