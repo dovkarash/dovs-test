@@ -16,7 +16,7 @@
         "top": "1",
         "bottom": "1",
         "type": "h1",
-        "sizes": 4,
+        "sizes": 124,
         "mobileSizes": "30",
         "width": 400,
         "padding": 2,
@@ -57,7 +57,7 @@
         "bottom": "1",
         "width": 1100,
         "type": "h1",
-        "sizes": "40",
+        "sizes": 116,
         "mobileSizes": "30",
         "padding": 0,
         "showDesktop": true,
@@ -65,7 +65,7 @@
         "fullWidth": false,
         "addShadow": false,
         "marginTop": 0,
-        "marginBottom": 6,
+        "marginBottom": 0,
         "borderRadius": 31,
         "zIndex": 1,
         "backgroundColor": "#ffffff",
@@ -74,11 +74,12 @@
         "title": "1231231231",
         "textColor": "#1d1acb",
         "textColorMobile": "#b9a7a7",
-        "paddingMobile": 2
+        "paddingMobile": 2,
+        "paddingOffset": 4
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T08:47:21.736Z"
+  "updatedAt": "2025-10-30T08:53:43.115Z"
 }
