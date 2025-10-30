@@ -8,40 +8,20 @@
   "bodyCode": "",
   "components": [
     {
-      "id": "4ea0757b-7b9b-4d1d-cca3-36042140f724",
+      "id": "28587c0b-4d11-4214-bb16-8e234b221ec7",
       "type": "Title",
       "data": {
         "center": false,
         "type": "h1",
         "sizes": "40",
-        "tag": "Tag",
-        "title": "Title",
-        "subTitle": "Subtitle",
-        "btnTxt": "Button",
-        "btnLink": "Button",
-        "marginTop": 6,
-        "width": 1200,
-        "marginTopMobile": 3,
-        "marginBottomMobile": 8,
-        "paddingMobile": 2,
-        "padding": 5,
-        "widthPercent": 98,
-        "widthPercentMobile": 90,
-        "fullWidth": true,
-        "backgroundColorMobile": "#000000",
-        "backgroundColor": "#b0a6a6",
-        "textColor": "#ff2424",
-        "textColorMobile": "#69ee44",
-        "showMobile": true,
-        "showDesktop": true,
-        "borderWidthMobile": 3,
-        "borderColorMobile": "#ab1717",
-        "borderColor": "#1a66ff",
-        "borderWidth": 5
+        "title": "123/3123",
+        "textColorMobile": "#1541ef",
+        "width": 1000,
+        "textColor": "#ff5757"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T11:52:55.042Z"
+  "updatedAt": "2025-10-30T12:00:30.914Z"
 }
