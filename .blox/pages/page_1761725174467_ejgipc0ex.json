@@ -37,8 +37,8 @@
         "borderStyle": "solid",
         "animation": "none",
         "shadowType": "none",
-        "customCSS": "",
-        "borderColor": "#446097",
+        "customCSS": "asdf",
+        "borderColor": "#185be2",
         "title": "2213123",
         "marginBottomMobile": -19,
         "backgroundColorMobile": "#ff0000",
@@ -88,5 +88,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T10:43:00.492Z"
+  "updatedAt": "2025-10-30T10:54:23.462Z"
 }
