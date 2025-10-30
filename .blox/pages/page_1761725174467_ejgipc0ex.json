@@ -28,7 +28,7 @@
       "data": {
         "center": true,
         "type": "h1",
-        "sizes": "40",
+        "sizes": 80,
         "title": "hi",
         "backgroundColor": "#cd5b5b",
         "textColor": "#ffffff",
@@ -37,8 +37,8 @@
         "width": 500,
         "widthPercent": 93,
         "widthPercentMobile": 90,
-        "marginTop": 6,
-        "marginTopMobile": 1,
+        "marginTop": 3,
+        "marginTopMobile": "",
         "shadowType": "xl",
         "widthMobile": 400,
         "fullWidthMobile": true,
@@ -48,5 +48,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T14:25:09.467Z"
+  "updatedAt": "2025-10-30T14:31:34.838Z"
 }
