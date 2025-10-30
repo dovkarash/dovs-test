@@ -65,7 +65,7 @@
         "fullWidth": false,
         "addShadow": false,
         "marginTop": 0,
-        "marginBottom": 0,
+        "marginBottom": 6,
         "borderRadius": 31,
         "zIndex": 1,
         "backgroundColor": "#ffffff",
@@ -80,5 +80,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T08:41:15.183Z"
+  "updatedAt": "2025-10-30T08:47:21.736Z"
 }
