@@ -19,11 +19,19 @@
         "subTitle": "Subtitle",
         "btnTxt": "Button",
         "btnLink": "Button",
-        "marginTop": 2
+        "marginTop": 2,
+        "width": 400,
+        "marginTopMobile": 3,
+        "marginBottomMobile": 8,
+        "paddingMobile": 7,
+        "padding": 2,
+        "widthPercent": 98,
+        "widthPercentMobile": 90,
+        "fullWidth": true
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T11:11:32.581Z"
+  "updatedAt": "2025-10-30T11:17:54.271Z"
 }
