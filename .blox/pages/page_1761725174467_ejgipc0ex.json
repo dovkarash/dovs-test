@@ -72,13 +72,13 @@
         "borderWidth": 0,
         "shadowType": "xl",
         "title": "1231231231",
-        "textColor": "#ff0000",
-        "textColorMobile": "#6a5c5c",
+        "textColor": "#1d1acb",
+        "textColorMobile": "#ff0000",
         "paddingMobile": 2
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T08:15:29.184Z"
+  "updatedAt": "2025-10-30T08:16:56.563Z"
 }
