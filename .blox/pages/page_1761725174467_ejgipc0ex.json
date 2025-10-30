@@ -15,15 +15,15 @@
         "type": "h1",
         "sizes": "40",
         "title": "123/3123",
-        "textColorMobile": "#454040",
+        "textColorMobile": "#ff0000",
         "width": 1000,
-        "textColor": "#29db47",
-        "backgroundColor": "#ff2929",
-        "backgroundColorMobile": "#2b2b2b"
+        "textColor": "#8c8c8c",
+        "backgroundColor": "#525252",
+        "backgroundColorMobile": "#db0000"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T12:51:46.789Z"
+  "updatedAt": "2025-10-30T12:55:25.257Z"
 }
