@@ -42,11 +42,12 @@
         "shadowType": "xl",
         "widthMobile": 400,
         "fullWidthMobile": true,
-        "fullWidth": false
+        "fullWidth": false,
+        "centerMobile": false
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-10-30T14:31:34.838Z"
+  "updatedAt": "2025-10-30T14:31:58.219Z"
 }
