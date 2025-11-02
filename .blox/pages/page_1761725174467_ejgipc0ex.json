@@ -36,9 +36,10 @@
       "id": "f4980728-7ad4-4e42-3f0b-49aa3404e948",
       "type": "Text",
       "data": {
-        "center": "false",
+        "center": true,
         "centerMobile": "false",
-        "body": "<p dir=\"ltr\"><br></p>"
+        "body": "<p dir=\"ltr\">asdasdasd</p>",
+        "title": ""
       }
     },
     {
@@ -427,5 +428,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T12:40:24.054Z"
+  "updatedAt": "2025-11-02T12:46:21.456Z"
 }
