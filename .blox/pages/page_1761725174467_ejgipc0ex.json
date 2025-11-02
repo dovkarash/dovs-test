@@ -139,11 +139,11 @@
       "id": "cf416ebd-5b30-4ff6-a47f-e49916068672",
       "type": "PriceTable",
       "data": {
-        "animation": "fadeInDown"
+        "animation": "fadeInUp"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T11:12:06.364Z"
+  "updatedAt": "2025-11-02T11:17:28.152Z"
 }
