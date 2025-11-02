@@ -33,81 +33,6 @@
       }
     },
     {
-      "id": "afd55691-ea91-4c99-caf0-c62206f2fd3c",
-      "type": "Cta",
-      "data": {
-        "center": "true",
-        "centerMobile": "true",
-        "sizes": "40",
-        "body": "<p dir=\"ltr\"><br></p>",
-        "title": ""
-      }
-    },
-    {
-      "id": "316143f9-2e19-42c5-a330-ce1d5dc38f29",
-      "type": "Space",
-      "data": {
-        "showDesktop": true,
-        "showMobile": true,
-        "fullWidth": false,
-        "height": 2,
-        "marginTop": 1,
-        "marginBottom": 1,
-        "padding": 0,
-        "width": 800,
-        "widthPercent": 96,
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "borderStyle": "solid",
-        "animation": "none",
-        "shadowType": "none",
-        "zIndex": 1
-      }
-    },
-    {
-      "id": "1ac3cae7-b518-4b12-c9bf-f54b2359f2a3",
-      "type": "BlockNav",
-      "data": {
-        "showDesktop": true,
-        "showMobile": true,
-        "fullWidth": false,
-        "marginTop": 1,
-        "marginBottom": 1,
-        "padding": 0,
-        "width": 800,
-        "widthPercent": 96,
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "borderStyle": "solid",
-        "animation": "none",
-        "shadowType": "none",
-        "zIndex": 1
-      }
-    },
-    {
-      "id": "692427b4-46a7-4953-33f1-115505671140",
-      "type": "Title",
-      "data": {
-        "center": false,
-        "centerMobile": false,
-        "type": "h1",
-        "sizes": "40"
-      }
-    },
-    {
-      "id": "e2566e25-66dd-4f84-f727-01a1b8a4d2d2",
-      "type": "TitleSide",
-      "data": {
-        "center": false,
-        "centerMobile": false,
-        "revers": "false",
-        "reversMobile": "false",
-        "height": "auto",
-        "type": "h1",
-        "sizes": "40"
-      }
-    },
-    {
       "id": "f4980728-7ad4-4e42-3f0b-49aa3404e948",
       "type": "Text",
       "data": {
@@ -117,51 +42,11 @@
       }
     },
     {
-      "id": "121be7cc-5b92-4eeb-aaef-fbadb4edb5a0",
-      "type": "Space",
-      "data": {
-        "showDesktop": true,
-        "showMobile": true,
-        "fullWidth": false,
-        "height": 2,
-        "marginTop": 1,
-        "marginBottom": 1,
-        "padding": 0,
-        "width": 800,
-        "widthPercent": 96,
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "borderStyle": "solid",
-        "animation": "none",
-        "shadowType": "none",
-        "zIndex": 1
-      }
-    },
-    {
-      "id": "91c20c44-a510-40cc-46e1-7c50c1f3ad01",
-      "type": "Space",
-      "data": {
-        "showDesktop": true,
-        "showMobile": true,
-        "fullWidth": false,
-        "height": 2,
-        "marginTop": 1,
-        "marginBottom": 1,
-        "padding": 0,
-        "width": 800,
-        "widthPercent": 96,
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "borderStyle": "solid",
-        "animation": "none",
-        "shadowType": "none",
-        "zIndex": 1
-      }
-    },
-    {
       "id": "2217d845-8f9c-4b4a-ffbd-f39bcafb3d75",
       "type": "PriceTable",
-      "data": {}
+      "data": {
+        "backgroundColor": "#9a7979"
+      }
     },
     {
       "id": "2038b207-48d8-489f-8302-6089d652a73d",
@@ -189,7 +74,8 @@
         "reversMobile": "false",
         "height": "auto",
         "sizes": "40",
-        "body": "<p dir=\"ltr\"><br></p>"
+        "body": "<p dir=\"ltr\"><br></p>",
+        "title": ""
       }
     },
     {
@@ -197,10 +83,12 @@
       "type": "PopUp",
       "data": {
         "countdown": 0,
-        "width": 300,
-        "position": "side",
+        "width": 200,
+        "position": "top",
         "autoOpenDelay": 0,
-        "body": "<p dir=\"ltr\"><br></p>"
+        "body": "<p dir=\"ltr\"><br></p>",
+        "backgroundColor": "#9c2b2b",
+        "fullWidth": true
       }
     },
     {
@@ -216,48 +104,6 @@
       }
     },
     {
-      "id": "d70f089e-316d-4b30-981d-0a163436be7b",
-      "type": "Text",
-      "data": {
-        "center": "false",
-        "centerMobile": "false",
-        "body": "<p dir=\"ltr\"><br></p>"
-      }
-    },
-    {
-      "id": "360fd912-4f22-4907-c9f3-6dffd73b7165",
-      "type": "PopUp",
-      "data": {
-        "countdown": 0,
-        "width": 300,
-        "position": "side",
-        "autoOpenDelay": 0,
-        "body": "<p dir=\"ltr\"><br></p>"
-      }
-    },
-    {
-      "id": "65b334d6-ed88-4adf-de72-44a67014de35",
-      "type": "PopUp",
-      "data": {
-        "countdown": 0,
-        "width": 300,
-        "position": "side",
-        "autoOpenDelay": 0,
-        "body": "<p dir=\"ltr\"><br></p>"
-      }
-    },
-    {
-      "id": "0618ce47-b726-46b3-c5fd-3ac2b484aa96",
-      "type": "Contact",
-      "data": {
-        "sizes": "40",
-        "titlePosition": "Top",
-        "formStatusView": "Normal",
-        "failMessage": "Failed to send message. Please try again later.",
-        "successMessage": "<p dir=\"ltr\"><br></p>"
-      }
-    },
-    {
       "id": "cf416ebd-5b30-4ff6-a47f-e49916068672",
       "type": "PriceTable",
       "data": {}
@@ -265,5 +111,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T07:39:22.149Z"
+  "updatedAt": "2025-11-02T07:45:29.993Z"
 }
