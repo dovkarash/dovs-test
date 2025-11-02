@@ -8,20 +8,28 @@
   "bodyCode": "",
   "components": [
     {
-      "id": "cc2110f7-9c93-4545-c2bd-2ff0a7a2da70",
-      "type": "TitleSide",
+      "id": "fbdd3e46-56b3-47ef-0252-e559bd66f842",
+      "type": "TextImage",
       "data": {
-        "center": false,
-        "centerMobile": false,
-        "revers": "false",
-        "reversMobile": "false",
-        "height": "auto",
+        "center": "true",
+        "centerMobile": "true",
         "type": "h1",
-        "sizes": "40"
+        "sizes": "40",
+        "height": "auto",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "29a6e686-380a-462f-a457-e2b59b327ed7",
+      "type": "Text",
+      "data": {
+        "center": "false",
+        "centerMobile": "false",
+        "body": "<p dir=\"ltr\"><br></p>"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T13:19:27.975Z"
+  "updatedAt": "2025-11-02T13:21:16.011Z"
 }
