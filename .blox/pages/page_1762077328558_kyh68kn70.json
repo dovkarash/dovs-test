@@ -19,7 +19,9 @@
         "body": "<p dir=\"ltr\"><br></p>",
         "width": 1200,
         "widthMobile": 1400,
-        "maxWidth": 850
+        "maxWidth": 850,
+        "borderColorMobile": "#2167f2",
+        "borderWidthMobile": 6
       }
     },
     {
@@ -93,5 +95,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T15:29:49.110Z"
+  "updatedAt": "2025-11-02T15:38:43.430Z"
 }
