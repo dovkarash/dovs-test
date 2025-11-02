@@ -39,7 +39,8 @@
         "center": "true",
         "centerMobile": "true",
         "sizes": "40",
-        "body": "<p dir=\"ltr\"><br></p>"
+        "body": "<p dir=\"ltr\"><br></p>",
+        "title": ""
       }
     },
     {
@@ -135,9 +136,427 @@
         "shadowType": "none",
         "zIndex": 1
       }
+    },
+    {
+      "id": "91c20c44-a510-40cc-46e1-7c50c1f3ad01",
+      "type": "Space",
+      "data": {
+        "showDesktop": true,
+        "showMobile": true,
+        "fullWidth": false,
+        "height": 2,
+        "marginTop": 1,
+        "marginBottom": 1,
+        "padding": 0,
+        "width": 800,
+        "widthPercent": 96,
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "borderStyle": "solid",
+        "animation": "none",
+        "shadowType": "none",
+        "zIndex": 1
+      }
+    },
+    {
+      "id": "2217d845-8f9c-4b4a-ffbd-f39bcafb3d75",
+      "type": "PriceTable",
+      "data": {}
+    },
+    {
+      "id": "2038b207-48d8-489f-8302-6089d652a73d",
+      "type": "Tabs",
+      "data": {}
+    },
+    {
+      "id": "4168be43-1e06-44ea-1c09-c3186debe202",
+      "type": "Contact",
+      "data": {
+        "sizes": "40",
+        "titlePosition": "Top",
+        "formStatusView": "Normal",
+        "failMessage": "Failed to send message. Please try again later.",
+        "successMessage": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "9019ae5e-0704-40ab-6c21-395d745607af",
+      "type": "IconsList",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40",
+        "boxWidth": 300,
+        "spaceBetween": 2,
+        "iconSize": 50
+      }
+    },
+    {
+      "id": "6a649b04-915d-481b-d444-ace9c952046d",
+      "type": "IconsList",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40",
+        "boxWidth": 300,
+        "spaceBetween": 2,
+        "iconSize": 50
+      }
+    },
+    {
+      "id": "d0d9095a-614d-4466-4021-b424547875af",
+      "type": "Icons",
+      "data": {
+        "boxWidth": 300,
+        "spaceBetween": 1
+      }
+    },
+    {
+      "id": "f227a8c4-e4c6-4323-7b5c-355e8c8f5fd8",
+      "type": "Logos",
+      "data": {
+        "grayColor": "false",
+        "itemSize": 40,
+        "spaceBetween": 2
+      }
+    },
+    {
+      "id": "fa6d63d9-20a7-4bfe-0d71-a8cdeb9ef160",
+      "type": "Faq",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "505e3c76-dcca-47f8-fbae-88558d8b0d8a",
+      "type": "ImageLinkBoxes",
+      "data": {
+        "boxlink": "false",
+        "itemNumber": 3,
+        "itemNumberMobile": 1
+      }
+    },
+    {
+      "id": "3ee25193-be90-4545-11ad-f1d2cb4f2a12",
+      "type": "Cards",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "itemNumber": 3,
+        "itemNumberMobile": 1
+      }
+    },
+    {
+      "id": "7fcda1fa-cf25-460b-fc9b-9c24eb1d29f6",
+      "type": "BigQuote",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "80f0bf09-c23c-4a04-c714-c45d6f16cfd3",
+      "type": "Cta",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "3d5dd90e-a742-4686-5297-4f20b5391b6b",
+      "type": "TextSide",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "8ebed9db-c897-4a04-1458-c2d5fee70df5",
+      "type": "PopUp",
+      "data": {
+        "countdown": 0,
+        "width": 300,
+        "position": "side",
+        "autoOpenDelay": 0,
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "5a4e765a-2dbe-4937-d5fb-cb9588eeeb3b",
+      "type": "BlockNav",
+      "data": {
+        "showDesktop": true,
+        "showMobile": true,
+        "fullWidth": false,
+        "marginTop": 1,
+        "marginBottom": 1,
+        "padding": 0,
+        "width": 800,
+        "widthPercent": 96,
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "borderStyle": "solid",
+        "animation": "none",
+        "shadowType": "none",
+        "zIndex": 1
+      }
+    },
+    {
+      "id": "072aaa5f-a079-43ab-9898-3a48a6cfb23b",
+      "type": "Title",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "type": "h1",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "69896c55-086b-4811-2026-8c46e2d98c8e",
+      "type": "TitleSide",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "type": "h1",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "44437327-6478-4c1a-f9a7-f49321479eaa",
+      "type": "TextImage",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "type": "h1",
+        "sizes": "40",
+        "height": "auto",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "d70f089e-316d-4b30-981d-0a163436be7b",
+      "type": "Text",
+      "data": {
+        "center": "false",
+        "centerMobile": "false",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "973df62a-a562-4893-3cbf-32b7b2cfb0e5",
+      "type": "BlockFooter",
+      "data": {}
+    },
+    {
+      "id": "491c1eed-a19f-4dd1-bebd-3ea4faa32d98",
+      "type": "BigImage",
+      "data": {
+        "height": "auto"
+      }
+    },
+    {
+      "id": "8ebbaf21-1b1c-408f-287f-4f1f24c74073",
+      "type": "VideoBox",
+      "data": {}
+    },
+    {
+      "id": "a54defe0-646d-4af5-c7d6-f124da1d546f",
+      "type": "Grid",
+      "data": {
+        "rows": 3,
+        "columns": 3,
+        "gap": 1,
+        "gapMobile": 0.5,
+        "rowsMobile": 3,
+        "columnsMobile": 2
+      }
+    },
+    {
+      "id": "b597f4d1-4138-4c59-7067-8fd02595b1d6",
+      "type": "Team",
+      "data": {
+        "imgHeight": "100",
+        "nameSize": "20",
+        "space": "1"
+      }
+    },
+    {
+      "id": "cf3f3d02-ccf6-4cdd-3b08-b1a70d7ede92",
+      "type": "Cta",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "36c11f18-22d1-4bdb-1101-49220e5d2d5b",
+      "type": "TextSide",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "360fd912-4f22-4907-c9f3-6dffd73b7165",
+      "type": "PopUp",
+      "data": {
+        "countdown": 0,
+        "width": 300,
+        "position": "side",
+        "autoOpenDelay": 0,
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "65b334d6-ed88-4adf-de72-44a67014de35",
+      "type": "PopUp",
+      "data": {
+        "countdown": 0,
+        "width": 300,
+        "position": "side",
+        "autoOpenDelay": 0,
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "bc6c6e70-3e88-4302-f642-fd7799a53724",
+      "type": "Testimonials",
+      "data": {
+        "imgHeight": "100",
+        "itemNumber": "1",
+        "itemNumberMobile": "1"
+      }
+    },
+    {
+      "id": "6a85c88a-ce18-4856-029a-48c16ea30b91",
+      "type": "ImageCarousel",
+      "data": {
+        "itemNumber": 1
+      }
+    },
+    {
+      "id": "b25c020b-aceb-4d74-6d2c-b1504b0a8d91",
+      "type": "BigQuote",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "f6c92154-702a-4c79-50aa-de106061c3c1",
+      "type": "Cards",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "itemNumber": 3,
+        "itemNumberMobile": 1
+      }
+    },
+    {
+      "id": "7d6e9fb1-610f-485d-9b69-119ee016480b",
+      "type": "ImageLinkBoxes",
+      "data": {
+        "boxlink": "false",
+        "itemNumber": 3,
+        "itemNumberMobile": 1
+      }
+    },
+    {
+      "id": "ffd9db2e-1ffb-4374-569b-2e1d7f69b613",
+      "type": "Faq",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "519f740b-c5c7-4925-779b-7670d7d95470",
+      "type": "Logos",
+      "data": {
+        "grayColor": "false",
+        "itemSize": 40,
+        "spaceBetween": 2
+      }
+    },
+    {
+      "id": "563a7082-0f11-4732-7630-7966cf2807e8",
+      "type": "Icons",
+      "data": {
+        "boxWidth": 300,
+        "spaceBetween": 1
+      }
+    },
+    {
+      "id": "fe5ffc24-997f-4f66-1be5-2502a70898fe",
+      "type": "IconsList",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40",
+        "boxWidth": 300,
+        "spaceBetween": 2,
+        "iconSize": 50
+      }
+    },
+    {
+      "id": "0618ce47-b726-46b3-c5fd-3ac2b484aa96",
+      "type": "Contact",
+      "data": {
+        "sizes": "40",
+        "titlePosition": "Top",
+        "formStatusView": "Normal",
+        "failMessage": "Failed to send message. Please try again later."
+      }
+    },
+    {
+      "id": "5c96a21b-af5b-47a7-3d8b-6b3e96f6232a",
+      "type": "Tabs",
+      "data": {}
+    },
+    {
+      "id": "cf416ebd-5b30-4ff6-a47f-e49916068672",
+      "type": "PriceTable",
+      "data": {}
+    },
+    {
+      "id": "a2b8f1d8-dcb6-47c3-3fb4-a5b848ffe80d",
+      "type": "Space",
+      "data": {
+        "showDesktop": true,
+        "showMobile": true,
+        "fullWidth": false,
+        "height": 2,
+        "marginTop": 1,
+        "marginBottom": 1,
+        "padding": 0,
+        "width": 800,
+        "widthPercent": 96,
+        "borderRadius": 0,
+        "borderWidth": 0,
+        "borderStyle": "solid",
+        "animation": "none",
+        "shadowType": "none",
+        "zIndex": 1
+      }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T07:12:36.367Z"
+  "updatedAt": "2025-11-02T07:19:26.713Z"
 }
