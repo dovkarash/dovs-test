@@ -27,9 +27,30 @@
         "centerMobile": "false",
         "body": "<p dir=\"ltr\"><br></p>"
       }
+    },
+    {
+      "id": "f5642131-79db-417a-e5d6-9dce35198d73",
+      "type": "VideoBox",
+      "data": {}
+    },
+    {
+      "id": "260ad874-ba1d-41eb-3a3b-55983e27444a",
+      "type": "Tabs",
+      "data": {}
+    },
+    {
+      "id": "fd214b37-0c71-4666-7396-6b3bf64dbd1a",
+      "type": "Contact",
+      "data": {
+        "sizes": "40",
+        "titlePosition": "Top",
+        "formStatusView": "Normal",
+        "failMessage": "Failed to send message. Please try again later.",
+        "successMessage": "<p dir=\"ltr\"><br></p>"
+      }
     }
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T13:22:20.494Z"
+  "updatedAt": "2025-11-02T13:23:49.267Z"
 }
