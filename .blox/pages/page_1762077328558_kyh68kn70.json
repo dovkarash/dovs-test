@@ -31,7 +31,13 @@
     {
       "id": "755cd8d9-d006-47a3-df4b-6d319a4f15fb",
       "type": "VideoBox",
-      "data": {}
+      "data": {
+        "autoplay": "false",
+        "controls": "true",
+        "muted": "false",
+        "loop": "false",
+        "aspectRatio": "16:9"
+      }
     },
     {
       "id": "eb326803-51fd-4281-b08d-dad8df59e463",
@@ -73,5 +79,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T14:10:16.596Z"
+  "updatedAt": "2025-11-02T14:15:59.425Z"
 }
