@@ -407,7 +407,15 @@
     {
       "id": "0b756ab9-944d-4133-c6bf-2227961285f6",
       "type": "PriceTable",
-      "data": {}
+      "data": {
+        "items": [
+          {
+            "perMonth": "false",
+            "Popular": "false",
+            "currency": "$"
+          }
+        ]
+      }
     },
     {
       "id": "e86ae567-f6dc-492f-aa5a-d59c1660277b",
@@ -419,5 +427,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T12:33:12.213Z"
+  "updatedAt": "2025-11-02T12:34:42.126Z"
 }
