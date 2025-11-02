@@ -25,7 +25,8 @@
       "data": {
         "center": "false",
         "centerMobile": "false",
-        "body": "<p dir=\"ltr\"><br></p>"
+        "body": "<p dir=\"ltr\"><br></p>",
+        "borderColor": "#4974ca"
       }
     },
     {
@@ -79,5 +80,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T14:24:06.865Z"
+  "updatedAt": "2025-11-02T14:34:22.774Z"
 }
