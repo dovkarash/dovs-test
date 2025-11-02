@@ -45,7 +45,8 @@
       "id": "2217d845-8f9c-4b4a-ffbd-f39bcafb3d75",
       "type": "PriceTable",
       "data": {
-        "backgroundColor": "#9a7979"
+        "backgroundColor": "#ed0202",
+        "textColor": "#000000"
       }
     },
     {
@@ -125,5 +126,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T09:26:01.335Z"
+  "updatedAt": "2025-11-02T09:32:14.065Z"
 }
