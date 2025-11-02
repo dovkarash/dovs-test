@@ -391,28 +391,6 @@
       }
     },
     {
-      "id": "cf3f3d02-ccf6-4cdd-3b08-b1a70d7ede92",
-      "type": "Cta",
-      "data": {
-        "center": "true",
-        "centerMobile": "true",
-        "sizes": "40",
-        "body": "<p dir=\"ltr\"><br></p>"
-      }
-    },
-    {
-      "id": "36c11f18-22d1-4bdb-1101-49220e5d2d5b",
-      "type": "TextSide",
-      "data": {
-        "center": "true",
-        "centerMobile": "true",
-        "revers": "false",
-        "reversMobile": "false",
-        "height": "auto",
-        "sizes": "40"
-      }
-    },
-    {
       "id": "360fd912-4f22-4907-c9f3-6dffd73b7165",
       "type": "PopUp",
       "data": {
@@ -469,5 +447,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T07:37:01.551Z"
+  "updatedAt": "2025-11-02T07:37:40.664Z"
 }
