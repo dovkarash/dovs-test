@@ -451,112 +451,23 @@
       }
     },
     {
-      "id": "b25c020b-aceb-4d74-6d2c-b1504b0a8d91",
-      "type": "BigQuote",
-      "data": {
-        "center": false,
-        "centerMobile": false,
-        "sizes": "40"
-      }
-    },
-    {
-      "id": "f6c92154-702a-4c79-50aa-de106061c3c1",
-      "type": "Cards",
-      "data": {
-        "center": false,
-        "centerMobile": false,
-        "itemNumber": 3,
-        "itemNumberMobile": 1
-      }
-    },
-    {
-      "id": "7d6e9fb1-610f-485d-9b69-119ee016480b",
-      "type": "ImageLinkBoxes",
-      "data": {
-        "boxlink": "false",
-        "itemNumber": 3,
-        "itemNumberMobile": 1
-      }
-    },
-    {
-      "id": "ffd9db2e-1ffb-4374-569b-2e1d7f69b613",
-      "type": "Faq",
-      "data": {
-        "titleWidth": "300",
-        "sizes": "40"
-      }
-    },
-    {
-      "id": "519f740b-c5c7-4925-779b-7670d7d95470",
-      "type": "Logos",
-      "data": {
-        "grayColor": "false",
-        "itemSize": 40,
-        "spaceBetween": 2
-      }
-    },
-    {
-      "id": "563a7082-0f11-4732-7630-7966cf2807e8",
-      "type": "Icons",
-      "data": {
-        "boxWidth": 300,
-        "spaceBetween": 1
-      }
-    },
-    {
-      "id": "fe5ffc24-997f-4f66-1be5-2502a70898fe",
-      "type": "IconsList",
-      "data": {
-        "titleWidth": "300",
-        "sizes": "40",
-        "boxWidth": 300,
-        "spaceBetween": 2,
-        "iconSize": 50
-      }
-    },
-    {
       "id": "0618ce47-b726-46b3-c5fd-3ac2b484aa96",
       "type": "Contact",
       "data": {
         "sizes": "40",
         "titlePosition": "Top",
         "formStatusView": "Normal",
-        "failMessage": "Failed to send message. Please try again later."
+        "failMessage": "Failed to send message. Please try again later.",
+        "successMessage": "<p dir=\"ltr\"><br></p>"
       }
-    },
-    {
-      "id": "5c96a21b-af5b-47a7-3d8b-6b3e96f6232a",
-      "type": "Tabs",
-      "data": {}
     },
     {
       "id": "cf416ebd-5b30-4ff6-a47f-e49916068672",
       "type": "PriceTable",
       "data": {}
-    },
-    {
-      "id": "a2b8f1d8-dcb6-47c3-3fb4-a5b848ffe80d",
-      "type": "Space",
-      "data": {
-        "showDesktop": true,
-        "showMobile": true,
-        "fullWidth": false,
-        "height": 2,
-        "marginTop": 1,
-        "marginBottom": 1,
-        "padding": 0,
-        "width": 800,
-        "widthPercent": 96,
-        "borderRadius": 0,
-        "borderWidth": 0,
-        "borderStyle": "solid",
-        "animation": "none",
-        "shadowType": "none",
-        "zIndex": 1
-      }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T07:31:14.115Z"
+  "updatedAt": "2025-11-02T07:37:01.551Z"
 }
