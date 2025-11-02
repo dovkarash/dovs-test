@@ -161,25 +161,7 @@
     {
       "id": "2217d845-8f9c-4b4a-ffbd-f39bcafb3d75",
       "type": "PriceTable",
-      "data": {
-        "items": [
-          {
-            "perMonth": false,
-            "Popular": true,
-            "currency": "$"
-          },
-          {
-            "perMonth": "false",
-            "Popular": true,
-            "currency": "$"
-          },
-          {
-            "perMonth": "false",
-            "Popular": "false",
-            "currency": "$"
-          }
-        ]
-      }
+      "data": {}
     },
     {
       "id": "2038b207-48d8-489f-8302-6089d652a73d",
@@ -576,5 +558,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T07:25:45.894Z"
+  "updatedAt": "2025-11-02T07:31:14.115Z"
 }
