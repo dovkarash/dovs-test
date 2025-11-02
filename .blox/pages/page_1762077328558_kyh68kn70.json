@@ -16,7 +16,10 @@
         "type": "h1",
         "sizes": "40",
         "height": "auto",
-        "body": "<p dir=\"ltr\"><br></p>"
+        "body": "<p dir=\"ltr\"><br></p>",
+        "width": 1200,
+        "widthMobile": 1400,
+        "maxWidth": 850
       }
     },
     {
@@ -59,7 +62,7 @@
         "height": "auto",
         "sizes": "40",
         "body": "<p dir=\"ltr\"><br></p>",
-        "widthMobile": 300,
+        "widthMobile": "",
         "width": 1200
       }
     },
@@ -90,5 +93,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T15:27:08.889Z"
+  "updatedAt": "2025-11-02T15:29:49.110Z"
 }
