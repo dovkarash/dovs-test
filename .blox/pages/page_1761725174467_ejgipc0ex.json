@@ -141,9 +141,283 @@
       "data": {
         "animation": "fadeInUp"
       }
+    },
+    {
+      "id": "76e95d0e-9a55-41e7-c485-3965692d4ec1",
+      "type": "BlockNav",
+      "data": {}
+    },
+    {
+      "id": "f420296d-25c5-411b-632d-b58e14e39f69",
+      "type": "Title",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "type": "h1",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "20987b61-413f-4878-c7a7-fe9964e467eb",
+      "type": "TitleSide",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "type": "h1",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "aa3de289-e70c-46b7-bf82-27f1d69698b7",
+      "type": "TextImage",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "type": "h1",
+        "sizes": "40",
+        "height": "auto",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "9b29319f-1245-4ee6-a8df-ffd2518993f3",
+      "type": "Text",
+      "data": {
+        "center": "false",
+        "centerMobile": "false",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "515da2b9-b865-4527-0ab1-0ca766ffcb60",
+      "type": "BlockFooter",
+      "data": {}
+    },
+    {
+      "id": "9c678c79-2b5b-45a5-ddae-4a3551f13489",
+      "type": "BigImage",
+      "data": {
+        "height": "auto"
+      }
+    },
+    {
+      "id": "51158b98-f39f-42cf-162a-be6a40e47e22",
+      "type": "VideoBox",
+      "data": {}
+    },
+    {
+      "id": "7d571f1b-195b-4a45-2651-62fdcdd6a5dc",
+      "type": "Grid",
+      "data": {
+        "rows": 3,
+        "columns": 3,
+        "gap": 1,
+        "gapMobile": 0.5,
+        "rowsMobile": 3,
+        "columnsMobile": 2
+      }
+    },
+    {
+      "id": "a8eb7831-cb59-4d44-e7d0-00c8f23d56cf",
+      "type": "Grid",
+      "data": {
+        "rows": 3,
+        "columns": 3,
+        "gap": 1,
+        "gapMobile": 0.5,
+        "rowsMobile": 3,
+        "columnsMobile": 2
+      }
+    },
+    {
+      "id": "ccc2b6ae-c1fb-433e-9863-520461c4ecca",
+      "type": "Team",
+      "data": {
+        "imgHeight": "100",
+        "nameSize": "20",
+        "space": "1"
+      }
+    },
+    {
+      "id": "544a23bb-a67c-42c5-036f-0b0e0266de9d",
+      "type": "Cta",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "ff71204b-a492-46d1-f35d-db77373a3b2d",
+      "type": "TextSide",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "c9983bed-4aac-4cf8-d03f-93e4ae9abfab",
+      "type": "TextSide",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "2eaee310-dbbe-4367-fd6b-aa429320e76e",
+      "type": "PopUp",
+      "data": {
+        "countdown": 0,
+        "width": 300,
+        "position": "side",
+        "autoOpenDelay": 0,
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "b66f191d-2ab7-4182-f5d4-5b184067797d",
+      "type": "Testimonials",
+      "data": {
+        "imgHeight": "100",
+        "itemNumber": "1",
+        "itemNumberMobile": "1"
+      }
+    },
+    {
+      "id": "64a4f6b7-7d28-49c8-1099-fb1c857ad97f",
+      "type": "Testimonials",
+      "data": {
+        "imgHeight": "100",
+        "itemNumber": "1",
+        "itemNumberMobile": "1"
+      }
+    },
+    {
+      "id": "9de7a2db-2729-4346-14e0-dced5f96ff25",
+      "type": "ImageCarousel",
+      "data": {
+        "itemNumber": 1
+      }
+    },
+    {
+      "id": "7bcfc2e7-5f47-4807-f3e3-11a8b0d51149",
+      "type": "BigQuote",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "24bae998-032c-453b-805e-fe2acc0d2ccf",
+      "type": "Cards",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "itemNumber": 3,
+        "itemNumberMobile": 1
+      }
+    },
+    {
+      "id": "43e80c5b-61ab-4f8b-844a-523cd9d76bfd",
+      "type": "ImageLinkBoxes",
+      "data": {
+        "boxlink": "false",
+        "itemNumber": 3,
+        "itemNumberMobile": 1
+      }
+    },
+    {
+      "id": "06ef5afd-a375-4f78-c0ce-f74b20b98a86",
+      "type": "Faq",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40"
+      }
+    },
+    {
+      "id": "472cc7e4-929f-4fa4-a016-5ed4c06ee6ae",
+      "type": "Logos",
+      "data": {
+        "grayColor": "false",
+        "itemSize": 40,
+        "spaceBetween": 2
+      }
+    },
+    {
+      "id": "be738094-5d96-4ce4-7198-73551a50a081",
+      "type": "Icons",
+      "data": {
+        "boxWidth": 300,
+        "spaceBetween": 1
+      }
+    },
+    {
+      "id": "95dc2d2b-4c53-42e5-88fa-f9015e1d1b55",
+      "type": "IconsList",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40",
+        "boxWidth": 300,
+        "spaceBetween": 2,
+        "iconSize": 50
+      }
+    },
+    {
+      "id": "20e33541-b6a9-4cb3-4ee8-a9746ddb0b63",
+      "type": "IconsList",
+      "data": {
+        "titleWidth": "300",
+        "sizes": "40",
+        "boxWidth": 300,
+        "spaceBetween": 2,
+        "iconSize": 50
+      }
+    },
+    {
+      "id": "b6ef1ee4-d5e4-4655-2608-f70ca1c12426",
+      "type": "Contact",
+      "data": {
+        "sizes": "40",
+        "titlePosition": "Top",
+        "formStatusView": "Normal",
+        "failMessage": "Failed to send message. Please try again later.",
+        "successMessage": "<p dir=\"ltr\"><br></p>"
+      }
+    },
+    {
+      "id": "c100af57-cf75-418c-d11b-2972db9876c4",
+      "type": "Tabs",
+      "data": {}
+    },
+    {
+      "id": "0b756ab9-944d-4133-c6bf-2227961285f6",
+      "type": "PriceTable",
+      "data": {}
+    },
+    {
+      "id": "e86ae567-f6dc-492f-aa5a-d59c1660277b",
+      "type": "Space",
+      "data": {
+        "height": 2
+      }
     }
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T12:31:37.291Z"
+  "updatedAt": "2025-11-02T12:33:12.213Z"
 }
