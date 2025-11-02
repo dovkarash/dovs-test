@@ -6,8 +6,22 @@
   "metaDescription": "",
   "headerCode": "",
   "bodyCode": "",
-  "components": [],
+  "components": [
+    {
+      "id": "cc2110f7-9c93-4545-c2bd-2ff0a7a2da70",
+      "type": "TitleSide",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "type": "h1",
+        "sizes": "40"
+      }
+    }
+  ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T09:55:28.558Z"
+  "updatedAt": "2025-11-02T13:19:27.975Z"
 }
