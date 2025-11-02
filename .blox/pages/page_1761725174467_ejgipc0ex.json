@@ -131,7 +131,8 @@
         "tag": "",
         "title": "",
         "subTitle": "",
-        "padding": 5
+        "padding": 5,
+        "animation": "slideUp"
       }
     },
     {
@@ -142,5 +143,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T10:32:26.695Z"
+  "updatedAt": "2025-11-02T10:59:10.330Z"
 }
