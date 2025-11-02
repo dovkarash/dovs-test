@@ -29,28 +29,36 @@
       }
     },
     {
-      "id": "f5642131-79db-417a-e5d6-9dce35198d73",
+      "id": "755cd8d9-d006-47a3-df4b-6d319a4f15fb",
       "type": "VideoBox",
       "data": {}
     },
     {
-      "id": "260ad874-ba1d-41eb-3a3b-55983e27444a",
-      "type": "Tabs",
-      "data": {}
+      "id": "eb326803-51fd-4281-b08d-dad8df59e463",
+      "type": "TextSide",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
     },
     {
-      "id": "fd214b37-0c71-4666-7396-6b3bf64dbd1a",
-      "type": "Contact",
+      "id": "a3f367f8-8ea2-44eb-1793-603a4f52d5db",
+      "type": "PopUp",
       "data": {
-        "sizes": "40",
-        "titlePosition": "Top",
-        "formStatusView": "Normal",
-        "failMessage": "Failed to send message. Please try again later.",
-        "successMessage": "<p dir=\"ltr\"><br></p>"
+        "countdown": 0,
+        "width": 300,
+        "position": "side",
+        "autoOpenDelay": 0,
+        "body": "<p dir=\"ltr\"><br></p>"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T13:23:49.267Z"
+  "updatedAt": "2025-11-02T13:29:51.498Z"
 }
