@@ -56,9 +56,22 @@
         "autoOpenDelay": 0,
         "body": "<p dir=\"ltr\"><br></p>"
       }
+    },
+    {
+      "id": "ab173025-fe3a-4524-6d87-f0b2d2f2440b",
+      "type": "TextSide",
+      "data": {
+        "center": "true",
+        "centerMobile": "true",
+        "revers": "false",
+        "reversMobile": "false",
+        "height": "auto",
+        "sizes": "40",
+        "body": "<p dir=\"ltr\"><br></p>"
+      }
     }
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T13:29:51.498Z"
+  "updatedAt": "2025-11-02T13:35:29.917Z"
 }
