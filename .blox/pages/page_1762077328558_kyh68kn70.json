@@ -25,10 +25,11 @@
       "data": {
         "center": "false",
         "centerMobile": "false",
-        "body": "<p dir=\"ltr\"><br></p>",
+        "body": "<p dir=\"ltr\">2131231231231<span style=\"white-space:pre\">\t</span></p>",
         "borderColor": "#e5e7eb",
-        "backgroundColor": "#ffffff",
-        "textColor": "#000000"
+        "backgroundColor": "#f50000",
+        "textColor": "#eee7e7",
+        "borderWidth": 9
       }
     },
     {
@@ -40,8 +41,9 @@
         "muted": "false",
         "loop": "false",
         "aspectRatio": "16:9",
-        "backgroundColor": "#a30f0f",
-        "textColor": "#ffe0e0"
+        "backgroundColor": "#b02121",
+        "textColor": "#ffe0e0",
+        "borderColor": "#e5e7eb"
       }
     },
     {
@@ -84,5 +86,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T15:11:18.421Z"
+  "updatedAt": "2025-11-02T15:17:41.897Z"
 }
