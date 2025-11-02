@@ -79,6 +79,16 @@
       }
     },
     {
+      "id": "1e1aac25-ec47-4354-45f4-3655bdfa9f70",
+      "type": "Title",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "type": "h1",
+        "sizes": "40"
+      }
+    },
+    {
       "id": "8ebed9db-c897-4a04-1458-c2d5fee70df5",
       "type": "PopUp",
       "data": {
@@ -111,5 +121,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-02T07:45:29.993Z"
+  "updatedAt": "2025-11-02T07:45:54.578Z"
 }
