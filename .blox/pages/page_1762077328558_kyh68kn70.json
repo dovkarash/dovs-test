@@ -40,7 +40,7 @@
         "muted": "false",
         "loop": "false",
         "aspectRatio": "16:9",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#a30f0f"
       }
     },
     {
@@ -83,5 +83,5 @@
   ],
   "status": "draft",
   "createdAt": "2025-11-02T09:55:28.558Z",
-  "updatedAt": "2025-11-02T15:02:43.744Z"
+  "updatedAt": "2025-11-02T15:10:11.103Z"
 }
