@@ -56,6 +56,15 @@
             "Popular": "false",
             "currency": "$"
           }
+        ],
+        "backgroundLayers": [
+          {
+            "id": "1762250078570",
+            "type": "color",
+            "value": "#e60505",
+            "visible": true,
+            "opacity": 1
+          }
         ]
       }
     },
@@ -73,12 +82,29 @@
         "center": false,
         "centerMobile": false,
         "type": "h1",
-        "sizes": "40"
+        "sizes": "40",
+        "tag": "121221",
+        "backgroundLayers": [
+          {
+            "id": "1762250114515",
+            "type": "video",
+            "value": "",
+            "visible": true,
+            "opacity": 1
+          },
+          {
+            "id": "1762250115865",
+            "type": "video",
+            "value": "",
+            "visible": true,
+            "opacity": 1
+          }
+        ]
       }
     }
   ],
   "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-04T09:49:38.889Z",
+  "updatedAt": "2025-11-04T09:55:25.868Z",
   "order": 0
 }
