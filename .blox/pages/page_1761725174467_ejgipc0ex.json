@@ -68,7 +68,14 @@
           {
             "id": "1762250078570",
             "type": "color",
-            "value": "#e60505",
+            "value": "#c82828",
+            "visible": true,
+            "opacity": 1
+          },
+          {
+            "id": "1762251275382",
+            "type": "gradient",
+            "value": "linear-gradient(90deg, #ff0000 0%, #0000ff 100%)",
             "visible": true,
             "opacity": 1
           }
@@ -105,6 +112,6 @@
   ],
   "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-04T10:12:40.549Z",
+  "updatedAt": "2025-11-04T10:14:45.385Z",
   "order": 0
 }
