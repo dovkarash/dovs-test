@@ -19,7 +19,7 @@
         "backgroundVideo": "",
         "backgroundGradient": "",
         "backgroundColor": "#6a1b1b",
-        "marginTop": -1
+        "marginTop": 0
       }
     },
     {
@@ -60,6 +60,6 @@
   ],
   "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-04T11:45:54.268Z",
+  "updatedAt": "2025-11-04T11:48:06.894Z",
   "order": 0
 }
