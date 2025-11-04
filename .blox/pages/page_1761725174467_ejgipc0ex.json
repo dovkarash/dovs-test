@@ -106,12 +106,13 @@
             "visible": true,
             "opacity": 1
           }
-        ]
+        ],
+        "title": "222"
       }
     }
   ],
   "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-04T11:04:38.034Z",
+  "updatedAt": "2025-11-04T11:10:50.064Z",
   "order": 0
 }
