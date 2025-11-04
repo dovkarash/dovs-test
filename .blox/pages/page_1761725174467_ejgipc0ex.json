@@ -73,28 +73,12 @@
         "center": false,
         "centerMobile": false,
         "type": "h1",
-        "sizes": "40",
-        "backgroundLayers": [
-          {
-            "id": "1762249517709",
-            "type": "color",
-            "value": "#661414",
-            "visible": true,
-            "opacity": 1
-          },
-          {
-            "id": "1762249528546",
-            "type": "gradient",
-            "value": "linear-gradient(90deg, rgba(229, 67, 67, 1) 38%, rgba(255, 255, 255, 1) 85%)",
-            "visible": true,
-            "opacity": 1
-          }
-        ]
+        "sizes": "40"
       }
     }
   ],
-  "status": "draft",
+  "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-04T09:45:49.569Z",
+  "updatedAt": "2025-11-04T09:49:38.889Z",
   "order": 0
 }
