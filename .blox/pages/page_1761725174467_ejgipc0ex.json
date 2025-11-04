@@ -47,28 +47,6 @@
       }
     },
     {
-      "id": "0b756ab9-944d-4133-c6bf-2227961285f6",
-      "type": "PriceTable",
-      "data": {
-        "items": [
-          {
-            "perMonth": "false",
-            "Popular": "false",
-            "currency": "$"
-          }
-        ],
-        "backgroundLayers": [
-          {
-            "id": "1762250078570",
-            "type": "color",
-            "value": "#e60505",
-            "visible": true,
-            "opacity": 1
-          }
-        ]
-      }
-    },
-    {
       "id": "e86ae567-f6dc-492f-aa5a-d59c1660277b",
       "type": "Space",
       "data": {
@@ -101,10 +79,32 @@
           }
         ]
       }
+    },
+    {
+      "id": "0b756ab9-944d-4133-c6bf-2227961285f6",
+      "type": "PriceTable",
+      "data": {
+        "items": [
+          {
+            "perMonth": "false",
+            "Popular": "false",
+            "currency": "$"
+          }
+        ],
+        "backgroundLayers": [
+          {
+            "id": "1762250078570",
+            "type": "color",
+            "value": "#e60505",
+            "visible": true,
+            "opacity": 1
+          }
+        ]
+      }
     }
   ],
   "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-04T09:59:06.458Z",
+  "updatedAt": "2025-11-04T10:05:15.426Z",
   "order": 0
 }
