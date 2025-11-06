@@ -6,8 +6,24 @@
   "metaDescription": "123123",
   "headerCode": "",
   "bodyCode": "",
-  "components": [],
+  "components": [
+    {
+      "id": "958d87e5-a6cc-4c51-9f0d-0e49b466e093",
+      "type": "Title",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "type": "h1",
+        "sizes": "40",
+        "title": "123123"
+      }
+    }
+  ],
   "status": "draft",
   "createdAt": "2025-11-06T12:26:42.391Z",
-  "updatedAt": "2025-11-06T12:26:55.355Z"
+  "updatedAt": "2025-11-06T12:59:03.609Z",
+  "pageSettings": {
+    "selectedGoogleFont": "Fira Sans"
+  },
+  "order": 6
 }
