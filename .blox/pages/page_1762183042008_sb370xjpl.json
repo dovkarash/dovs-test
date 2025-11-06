@@ -6,9 +6,20 @@
   "metaDescription": "123",
   "headerCode": "",
   "bodyCode": "",
-  "components": [],
+  "components": [
+    {
+      "id": "5df45ded-ca47-4a60-9a29-14562c25b5ed",
+      "type": "Title",
+      "data": {
+        "center": false,
+        "centerMobile": false,
+        "type": "h1",
+        "sizes": "40"
+      }
+    }
+  ],
   "status": "draft",
   "createdAt": "2025-11-03T15:17:22.008Z",
-  "updatedAt": "2025-11-05T06:26:06.380Z",
+  "updatedAt": "2025-11-06T11:43:01.592Z",
   "order": 2
 }
