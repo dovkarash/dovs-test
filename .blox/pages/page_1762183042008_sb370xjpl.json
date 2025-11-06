@@ -14,12 +14,14 @@
         "center": false,
         "centerMobile": false,
         "type": "h1",
-        "sizes": "40"
+        "sizes": "40",
+        "tag": "123123123123",
+        "title": "123123123123123"
       }
     }
   ],
   "status": "draft",
   "createdAt": "2025-11-03T15:17:22.008Z",
-  "updatedAt": "2025-11-06T11:43:01.592Z",
+  "updatedAt": "2025-11-06T11:50:59.316Z",
   "order": 2
 }
