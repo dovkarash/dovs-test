@@ -53,7 +53,8 @@
         "centerMobile": false,
         "type": "h1",
         "sizes": "40",
-        "marginTop": 12
+        "marginTop": 12,
+        "fontFamily": "Karla"
       }
     },
     {
@@ -78,7 +79,7 @@
   ],
   "status": "published",
   "createdAt": "2025-10-29T08:06:14.467Z",
-  "updatedAt": "2025-11-06T14:53:13.943Z",
+  "updatedAt": "2025-11-06T14:58:57.160Z",
   "order": 0,
   "pageSettings": {
     "selectedGoogleFont": "IBM Plex Sans Hebrew"
